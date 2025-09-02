@@ -1,0 +1,21 @@
+﻿# dependencias
+node_modules/
+**/node_modules/
+
+# builds / caches
+dist/
+build/
+**/.vite/
+**/.cache/
+
+# env
+**/.env
+**/.env.local
+
+# coverage
+coverage/
+**/coverage/
+
+# sqlite
+backend/data/*.db
+backend/data/*.db-*
