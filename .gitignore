@@ -19,3 +19,5 @@ coverage/
 # sqlite
 backend/data/*.db
 backend/data/*.db-*
+
+**/.scannerwork/
